@@ -5,11 +5,11 @@ VinMotion Robotics is focusing on the R&D, production, and sales of consumer and
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@VinMotionOfficial)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574711428806)
-<a href="https://github.com/VinMotion-Robotics">
-<img src="https://badges.strrl.dev/years/VinMotion-Robotics?style=flat-square&logo=github">
+<a href="https://github.com/VinMotion-public">
+<img src="https://badges.strrl.dev/years/VinMotion-public?style=flat-square&logo=github">
 </a>
-<a href="https://github.com/VinMotion-Robotics?tab=repositories">
-<img src="https://badges.strrl.dev/repos/VinMotion-Robotics?style=flat-square&logo=github">
+<a href="https://github.com/VinMotion-public?tab=repositories">
+<img src="https://badges.strrl.dev/repos/VinMotion-public?style=flat-square&logo=github">
 </a>
 
 
