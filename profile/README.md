@@ -1,7 +1,7 @@
 <img src="../image/cover.jpg" align="center">
 <br><br>
 
-VinMotion Robotics is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, seven-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
+VinMotion is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, seven-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@VinMotionOfficial)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574711428806)
@@ -26,10 +26,20 @@ VinMotion Robotics is focusing on the R&D, production, and sales of consumer and
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
-        <td align="center" ><a href=""> motion_model </a></td>
-        <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href=""> here </a>. </td>
-        <!-- <td><img alt="Stars" src="https://img.shields.io/github/stars/"/></td> -->
-        <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/"/></td> -->
+        <td colspan="1" rowspan="1" align="center" >
+            <a href="https://github.com/VinMotion-public" target="_blank"> Locomotion </a>
+        </td>
+        <td><a href="https://github.com/VinMotion-public/vmo_locomotion_release" target="_blank"> vmo_locomotion_release </a> <br> Locomotion implementation for Motion robots. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="2" align="center">
+            <a href="https://www.ros.org/" target="_blank"> ROS2</a>
+        </td>
+        <td><a href="https://github.com/VinMotion-public/vmo_ros2_interface" target="_blank"> vmo_ros2_interface </a> <br> ROS2 interface package. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/VinMotion-public/vmo_ros2_interface?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/VinMotion-public/vmo_ros2_interface?style=flat-square"/></td>
     </tr>
     </tbody>
 </table>
