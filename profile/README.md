@@ -29,7 +29,7 @@ VinMotion is focusing on the R&D, production, and sales of consumer and industry
         <td colspan="1" rowspan="1" align="center" >
             <a href="https://github.com/VinMotion-public" target="_blank"> Packages </a>
         </td>
-        <td><a href="https://github.com/VinMotion-public/vm_packages" target="_blank"> vm_packages </a> <br> Including simulation, controller, URDF/XML, ROS2 interface, and control dashboard. </td>
+        <td><a href="https://github.com/VinMotion-public/vmo_packages" target="_blank"> vm_packages </a> <br> Including simulation, controller, URDF/XML, ROS2 interface, and control dashboard. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
     </tr>
@@ -37,7 +37,7 @@ VinMotion is focusing on the R&D, production, and sales of consumer and industry
         <td colspan="1" rowspan="1" align="center" >
             <a href="https://github.com/VinMotion-public" target="_blank"> Simulation </a>
         </td>
-        <td><a href="https://github.com/VinMotion-public/vmo_locomotion_release" target="_blank"> mj_sim </a> <br> Mujoco simulation. </td>
+        <td><a href="https://github.com/VinMotion-public/vmo_sim" target="_blank"> mj_sim </a> <br> Mujoco simulation. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
     </tr>
