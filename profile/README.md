@@ -53,7 +53,7 @@ VinMotion is focusing on the R&D, production, and sales of consumer and industry
         <td colspan="1" rowspan="1" align="center" >
             <a href="https://github.com/VinMotion-public" target="_blank"> URDF/XML </a>
         </td>
-        <td><a href="https://github.com/VinMotion-public/vmo_locomotion_release" target="_blank"> robots </a> <br> URDF/XML of Motion robots. </td>
+        <td><a href="https://github.com/VinMotion-public/vmo_robots" target="_blank"> robots </a> <br> URDF/XML of Motion robots. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/VinMotion-public/vmo_locomotion_release?style=flat-square"/></td>
     </tr>
