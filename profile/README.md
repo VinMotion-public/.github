@@ -1,7 +1,7 @@
 <img src="../image/cover.jpg" align="center">
 <br><br>
 
-VinMotion is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, seven-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
+VinMotion provides end-to-end infrastructure for large-scale deployment of humanoid robots, powered by human-in-the-loop AI integration. Our solution enables fast, reliable, and scalable deployment across real-world applications. Each robot learns and adapts directly through real-world deployment and human feedback, evolving into a super-intelligent physical agent that serves diverse industries.
 
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@VinMotionOfficial)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2?style=flat&labelColor=231877F2&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574711428806)
